@@ -1,19 +1,19 @@
-### Hi there 👋
+<div align="center" width="50">
 
-<!--
-**just-sultanov/just-sultanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/developer.gif" href="https://github.com/just-sultanov" alt="Ilshat Sultanov" width="550"/><br>
 
-Here are some ideas to get you started:
+Hi! I'm glad to see you. Let's get acquainted!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/telegram-just_sultanov?style=flat&&color=black&label&logo=telegram)](https://t.me/just_sultanov)
+[![Twitter](https://img.shields.io/badge/twitter-just_sultanov?style=flat&&color=black&label&logo=twitter)](https://twitter.com/just_sultanov)
+[![LinkedIn](https://img.shields.io/badge/linkedin-just_sultanov?style=flat&&color=black&label&logo=linkedin)](https://www.linkedin.com/in/just-sultanov)
 
-<!-- https://yhype.me/ - Extended GitHub Profile Views Counter -->
+[![Resume](https://img.shields.io/badge/pdf-just_sultanov?style=flat&color=blue&label=%20resume&logo=libreoffice)](resume.pdf)
+<hr/>
+
+![Visitors](https://komarev.com/ghpvc/?username=just-sultanov&label=visitors&color=green)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjust-sultanov&title=hits)
+
 ![](https://hit.yhype.me/github/profile?user_id=6501329)
+
+</div>
